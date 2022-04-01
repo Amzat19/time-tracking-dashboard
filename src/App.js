@@ -156,8 +156,8 @@ const changeMonthlyDuration = () => {
   
     </AppStyles>
     <footer>
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Amzat</a>.
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="">Frontend Mentor</a>. 
+    Coded by <p>Amzat</p>.
   </footer>
   </>
   );
