@@ -17,6 +17,11 @@ padding: 100px 0;
      .Jeremy {
        display: flex;
      }
+
+     .Jeremy > img {
+       width: 75px;
+       height: 75px;
+     }
      
      .Jeremy-report {
        padding: 30px 0px 0px 15px;
